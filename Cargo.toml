@@ -1,12 +1,12 @@
 [package]
-name = "dummy-cargo-toml-creater"
-version = "0.1.6"
-authors = ["nnao45 <n4sekai5y@gmail.com>"]
+name = "cargo-toml-version-change"
+version = "0.1.7"
+authors = ["thom bogers <thom.bogers@gmail.com>"]
 edition = "2018"
-description = "dummy-cargo-toml-creater for docker cache"
+description = "cargo-toml-version-change for docker cache"
 license = "MIT"
-homepage = "https://github.com/nnao45/dummy-cargo-toml-creater"
-repository = "https://github.com/nnao45/dummy-cargo-toml-creater"
+homepage = "https://github.com/ThomBogers/dummy-cargo-toml-creater"
+repository = "https://github.com/ThomBogers/dummy-cargo-toml-creater"
 license-file = "LICENSE"
 readme = "README.md"
 
